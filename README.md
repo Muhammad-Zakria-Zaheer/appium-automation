@@ -134,6 +134,8 @@ Modular test design
 📊 Reporting (Allure)
 📱 Multi-device support
 🔁 Retry & stability improvements
+
+
 👨‍💻 Author
 
 Muhammad Zakria
