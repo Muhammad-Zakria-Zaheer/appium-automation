@@ -1,0 +1,14 @@
+Configuration:
+{
+  "platformName": "Android",
+  "appium:deviceName": "Android Device",
+  "appium:udid": "552bcc51",
+  "appium:automationName": "UiAutomator2",
+  "appium:appPackage": "com.maxerp.invoice",
+  "appium:appActivity": "com.maxerp.invoice.MainActivity",
+  "appium:noReset": true,
+  "appium:newCommandTimeout": 300
+}
+
+Commands to run:
+npx wdio run wdio.conf.js --spec ./test/specs/invoice.test.js
